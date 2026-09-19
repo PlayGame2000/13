@@ -23,7 +23,7 @@ The chain is selected automatically from the browser's User-Agent.
 
 ## Usage
 
-1. Open the browser on your PS4 and go to https://rawgame4.github.io/
+1. Open the browser on your PS4 and go to https://playgame2000.github.io/13
 2. Wait for `CACHED (first run)`. This stores everything in AppCache so later
    runs work offline.
 3. Press X to start.
